@@ -9,14 +9,14 @@ class Dog
   end
   
   
-  def breed( ="Mutt")
+  def breed="Mutt"
     @breed
   end 
 end 
 
 fido= Dog.new
 fido.name= ("Fido")
-fido.breed= ("Pug", ""="Mutt")
+fido.breed= ("Pug")
 
 fido.name 
 fido.breed
