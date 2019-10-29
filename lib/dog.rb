@@ -20,6 +20,7 @@ fido= Dog.new
 fido.name= ("Fido")
 fido.breed= ("Pug")
 
-
+fido.name 
+fido.breed
 
 
